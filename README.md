@@ -101,13 +101,16 @@ https://github.com/koayush1310/college-platform-frontend
 # 📸 Screenshots
 
 ## Home Page
-(Add Screenshot)
+![Home page](./public/home-page.png)
 
 ## Compare Colleges
-(Add Screenshot)
+![Compare](./public/compare-colleges.png)
 
 ## Predictor Tool
-(Add Screenshot)
+![Predictor](./public/predictor-tool.png)
+
+## College Details Page
+![College details](./public/college-details.png)
 
 ---
 
